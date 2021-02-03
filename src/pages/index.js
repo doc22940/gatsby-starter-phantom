@@ -17,7 +17,7 @@ const IndexPage = () => (
       <div className="inner">
         <header>
           <h1>
-            This is Phantom, a free, fully responsive gatsby starter
+            This is a test, this is only a test, only a test
             <br />
           </h1>
           <p>
